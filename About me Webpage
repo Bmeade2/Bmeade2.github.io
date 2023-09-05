@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><b>About Me Webpage</b></title>
+</head>
+
+<body> 
+    <p><b><h3>All About: Brynn Meade</h3></b></p>
+   
+   
+    <p>This is Brynn:</p>
+   
+    <img src="">
+
+    <p>Biographical Sketch</p>
+        <ul>
+            Brynn Meade was born on June 7, 2005 in Spring, Texas. She had a good childhood and loved every second of it. She has one older sister named Jacey
+            and one dog named Mable. Brynn graduated Grand Oaks highshool with 750 classmates and decided to go to the University of North Alabama.
+            Her and her sister are very close and even go to the same college togehtor twelve hours away from home. She plans to gratuate
+            in 2027 and major in Chemical Engineering Technology.
+            
+        </ul>
+
+    <body style="background-color: rgb(202, 195, 209); color: white;">
+    
+    <p>Major</p>
+         <ul>
+            <li>Chemical Engineering Technology</li>
+        </ul>
+    <p>Hobbies</p>
+        <ul>
+            <li>Reading</li>
+            <li>Baking</li> 
+            <li>Voliunteering</li>
+        </ul>
+    <p>Interests</p>
+        <ul>
+            <li>Travel</li>
+            <li>Learning sign language</li>
+            <li>Yoga</li>
+        </ul>
+    <p>Accomplishments</p>
+        <u>
+            <li>trhythy</li>
+
+        </u>
+    <p>Assiocations</p>
+        <ul>
+            <li>jvrubvr</li>
+        </ul>
+    
+        <p>
+       Since I like to read:
+        <a href="https://www.panmacmillan.com/blogs/general/must-read-books-of-all-time">Here are good books to read!!</a>
+    </p>
+</body>
+</html>
