@@ -30,8 +30,8 @@
         </ul>
     <p>Hobbies</p>
         <ul>
-            <li>Reading</li>
-            <li>Baking</li> 
+            <li>Reading</li>            
+            <li>Baking</li>                                                      
             <li>Volunteering</li>
         </ul>
     <p>Interests</p>
@@ -42,17 +42,25 @@
         </ul>
     <p>Accomplishments</p>
         <ul>
-            <li>trhythy</li>
+            <li>National Honor Society</li>
+            <li>Completed 24 hours of college in high school</li>
         </ul>
     <p>Assiocations</p>
         <ul>
-            <li>jvrubvr</li>
+            <li>Zeta Tau Alpha</li>
+            <li>Athletic Trainer in high school</li>
         </ul>
     
         <p>
        Since I like to read:
         <a href="https://www.panmacmillan.com/blogs/general/must-read-books-of-all-time">Here are good books to read!!</a>
-    </p>
+
+       </p>
+       
+       <p>
+        Also since I like to bake:
+       <a href="https://www.goodhousekeeping.com/food-recipes/g32256776/baking-recipes/?utm_source=google&utm_medium=cpc&utm_campaign=arb_ga_ghk_d_bm_prog_org_us_g32256776&gclid=CjwKCAjw6eWnBhAKEiwADpnw9iXmBwMkQk_ModgXwFjAckKVQemM1HlQk6qtK29HX0IsHBR5jSCptxoCv_IQAvD_BwE"> Good Recipes!!</a>
+       </p>
 
 </body>
 </html>
